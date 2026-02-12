@@ -42,8 +42,6 @@ temp/
 
 # IDE / Editor Files
 .idea/
-.vscode/
-.vscode/settings.json
 
 # Framework-specific files
 local_neo4jWorkDir/
@@ -75,3 +73,4 @@ deepcode_lab/
 # secrets (use .env or environment variables instead)
 mcp_agent.secrets.yaml
 nanobot_config.json
+config.bat
